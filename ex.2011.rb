@@ -3,19 +3,13 @@
 # 一桁の正の整数値をランダムに生成して表示
 # 一桁の負の整数値をランダムに生成して表示
 # 二桁の正の整数値をランダムに生成して表示
+print "3個の乱数を生成しました。"
+input = gets
+number = input.to_i
 
-x = 1
-y = -1
-z = 10
+puts "一桁の正の整数：#{rand(1..9)}"
+puts "一桁の負の整数：#{rand(-9..-1)}"
+puts "二桁の正の整数：#{rand(10..99)}"
 
-1.times do
-  puts "#{rand(x...9)}"
-end
 
-1.times do
-  puts "#{rand(y...-9)}"
-end
 
-1.times do
-  puts "#{rand(z...99)}"
-end
