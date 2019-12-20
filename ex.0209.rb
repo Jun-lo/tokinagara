@@ -1,6 +1,16 @@
 # -*- coding: utf-8 -*-
 
 # 三角形の底辺と高さを読み込んで、その面積を表示するプログラム
+input = gets
+n = input.to_f
+
+p "底辺#{}"
+
+
+print "三角形の面積を求めます"
+
+
+
 
 width = 6.5
 height = 3.5
