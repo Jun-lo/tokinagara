@@ -17,4 +17,3 @@ if (n % y == 0)
 else
   puts "BはAの約数ではありません。"
 end
-
