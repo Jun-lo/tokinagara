@@ -14,3 +14,7 @@ print "こんにちは#{name1+name2}です。"
 
 
 
+input = readlines
+p input
+
+改行メソッド
