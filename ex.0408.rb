@@ -16,7 +16,6 @@ if (x > 0)
     else
       print '+'
     end
-    print i
-    i += 1
+     i += 1
   end
 end
