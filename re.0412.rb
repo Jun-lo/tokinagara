@@ -6,12 +6,19 @@ puts "カウントダウンします。"
 
 
 print "正の整数値："
-n = gets.to_i
+n = k = gets.to_i
 
-for i in 0..n
-  print "#{n}"
- n -= 1
-puts
+while n >= 0
+  puts n
+  n -= 1
+end
+
+for i in 0..k
+  puts k - i
+end
+
+(0..k).each do |i|
+  puts k - i
 end
 
 #正の聖数値のwhile文の設定の仕方

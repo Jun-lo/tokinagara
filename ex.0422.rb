@@ -58,7 +58,7 @@
 # puts
 #   end
 
-puts "左上直角の二等辺三角形を表示します。"
+puts "右上直角の二等辺三角形を表示します。"
  print "段数は："
  input = gets
  n = input.to_i

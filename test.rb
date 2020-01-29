@@ -1,6 +1,18 @@
 # -*- coding: utf-8 -*-
 
-print("2.4.step(5.3, 0.8)¥n")
-2.4.step(5.3, 0.8){|num|
-  print("num = ", num, "¥n")
-}
+puts "左上直角の二等辺三角形を表示します。"
+ print "段数は："
+ input = gets
+ n = input.to_i
+
+  for i in Array.new(n)
+
+
+   for i in Array.new(n)
+     print "*"
+
+
+ end
+   puts
+    n -= 1
+   end
