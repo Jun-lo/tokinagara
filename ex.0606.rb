@@ -15,10 +15,11 @@ for i in 0..(n - 1)
 end
 print "a = {"
 if (n >= 2)
-  for k in 0..(n - 1)
+  for k in 0..(n - 2)
     print "#{a[k]},"
-    # if (n >= 1)
-    #   print "#{a[k}"
     end
-  end
+    if (a[i])
+      print "#{a[i]}"
+end
+end
 puts "}"
