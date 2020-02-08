@@ -45,5 +45,51 @@
 #10個の配列を作る。インクリメントする必要はない
 
 #10までの乱数と＊の対応のさせ方
+#
+#
+# a =[]
+#
+# for i in 0..3
+#   print "a[#{i}] = "
+#   input = gets
+#   num = input.to_f
+#   a.push(num)
+# end
+#
+# print a
 
 
+# a = []
+# num = 0
+#
+# for i in 0..5
+#     num = rand(10)
+#   end
+# a.push(num)
+# puts a
+
+# a = []
+# #
+# # 5.times do
+# # num = rand(10)
+# # urnd = UniqRand.new(num)
+# #
+# # a.push(urnd)
+# #
+# # end
+# #
+# # put a
+
+
+a = []
+num = 0
+
+for i in 1..5
+  for k in Array.new(1)
+  num = rand(10)
+  a.push(num)
+  end
+  redo if (a[i] = num)
+
+end
+puts a
