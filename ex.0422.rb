@@ -18,24 +18,24 @@
 #    n -= 1
 #   end
 
-# puts "左下直角の二等辺三角形を表示します。"
-#  print "段数は："
-#  input = gets
-#  n = input.to_i
-#
-# y = 1
-# for i in Array.new(n)
-#
-# for i in Array.new(y)
-#
-#     print "*"
-#
-#     end
-#    y += 1
-#    puts
-# end
+puts "左下直角の二等辺三角形を表示します。"
+ print "段数は："
+ input = gets
+ n = input.to_i
 
-# puts "左下直角の二等辺三角形を表示します。"
+y = 1
+for i in Array.new(n)
+
+for i in Array.new(y)
+
+    print "*"
+
+    end
+   y += 1
+   puts
+end
+
+# puts "右下直角の二等辺三角形を表示します。"
 #  print "段数は："
 #  input = gets
 #  n = input.to_i
@@ -58,23 +58,23 @@
 # puts
 #   end
 
-puts "右上直角の二等辺三角形を表示します。"
- print "段数は："
- input = gets
- n = input.to_i
-
-
-for i in (1..n)
-
-  for start_count in Array.new(i - 1)
-    print " "
-  end
-
-  for i in (1..n)
-
-    print "*"
-
-  end
-  n -= 1
- puts
-   end
+# puts "右上直角の二等辺三角形を表示します。"
+#  print "段数は："
+#  input = gets
+#  n = input.to_i
+#
+#
+# for i in (1..n)
+#
+#   for start_count in Array.new(i - 1)
+#     print " "
+#   end
+#
+#   for i in (1..n)
+#
+#     print "*"
+#
+#   end
+#   n -= 1
+#  puts
+#    end

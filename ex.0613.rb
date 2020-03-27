@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 
 #配列の要素の並びをシャッフルするプログラムを作成
-#
+
 print "要素数："
 input = gets
 n = input.to_i

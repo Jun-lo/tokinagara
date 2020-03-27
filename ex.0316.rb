@@ -19,6 +19,8 @@ n = [a, b, c]
 if ((b >= a && c <= a) || (b <= a && c >= a))
   med = a
   else if((a > b && c < b) || (a < b && c > b))
+         med = b
+       else
          med = c
        end
 end

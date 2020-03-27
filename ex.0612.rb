@@ -8,7 +8,8 @@ n = input.to_i
 a = []
 
 num = 0
-for i in 0..n
+
+for i in 0 ..(n - 1)
   num = rand(11)
   while a.include?(num)
     num = rand(11)
@@ -16,10 +17,12 @@ for i in 0..n
       break
     end
   end
-  a.push(num)
+a.push(num)
+
 end
 
 for i in 0..(n - 1)
 
   puts "a[#{i}] = #{a[i]}"
+
 end

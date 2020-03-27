@@ -2,12 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f64c9d15-61c0-4832-88d3-791a57274169" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex.0610.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.0611.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.0612.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.0613.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0614.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0615.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0616.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0617.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0618.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0619.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0620.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0621.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0701.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0702.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0703.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0704.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0705.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0706.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0707.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0708.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0709.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0710.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0711.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0712.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0715.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0716.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0717.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0718.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0719.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0720.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0721.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0722.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0723.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0724.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0725.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0726.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0727.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0728.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0729.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0730.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0731.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0732.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.0733.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex.0609.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex.0609.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.0316.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex.0316.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.0422.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex.0422.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.0612.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex.0612.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.0613.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex.0613.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re.0422.rb" beforeDir="false" afterPath="$PROJECT_DIR$/re.0422.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/z.test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/z.test.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +54,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="practice_ex" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Ruby.ex.0728">
     <configuration name="ex.0101" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="practice_ex" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -63,8 +105,31 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex.0728" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="practice_ex" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="true" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="ruby-2.3.7-p456" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex.0728.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ruby.ex.0101" />
+      <item itemvalue="Ruby.ex.0728" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.ex.0728" />
         <item itemvalue="Ruby.ex.0101" />
       </list>
     </recent_temporary>
@@ -80,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576645072249</updated>
-      <workItem from="1576645073474" duration="282209000" />
+      <workItem from="1576645073474" duration="437354000" />
     </task>
     <servers />
   </component>
@@ -124,6 +189,46 @@
             <option name="block-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/ex.0621.rb</url>
+          <line>22</line>
+          <properties a="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/z.test.rb</url>
+          <line>322</line>
+          <properties a="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/ex.0727.rb</url>
+          <line>41</line>
+          <properties a="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/ex.0728.rb</url>
+          <line>25</line>
+          <properties a="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/ex.0727.rb</url>
+          <line>23</line>
+          <properties a="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
